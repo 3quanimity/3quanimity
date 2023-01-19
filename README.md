@@ -3,16 +3,12 @@
 
 ## I am Frontend Developer Engineer
 
-- 💻 Angular, ReactJS, TypeScript
+- 💻 Angular, ReactJS, TypeScript, JavaScript, HTML, CSS
 - 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com
 - 🔗linkedin.com/in/haythem-ben-drissia | 📂github.com/3quanimity
 - 🌍 El Mourouj, Ben Arous, Tunisia | 🕰️1-3 months notice period | 🌍 International mobility
 - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner
-
 - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects.
-
-![GitHub metrics](https://metrics.lecoq.io/3quanimity)  
-
 
 
 
