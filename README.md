@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is 
 # Haythem BEN DRISSIA
 
-## Frontend Developer Engineer 
+## I am Frontend Developer Engineer
 
 - 💻 Angular, ReactJS, TypeScript
 - 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com
@@ -11,8 +11,8 @@
 
 - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects.
 
+![GitHub metrics](https://metrics.lecoq.io/3quanimity)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3quanimity)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
