@@ -7,7 +7,7 @@
 <!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
 <div style="display:flex;">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact&theme=tokyonight" />
   <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
 </div>
 
