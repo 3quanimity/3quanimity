@@ -1,12 +1,4 @@
-# Hi there 👋, I'm Haythem
-
-## A Frontend Developer Engineer
-
-| 🧙🏽‍♂️ [Linkedin](https://www.linkedin.com/in/haythem-ben-drissia/) | 📍 El Mourouj, Ben Arous, Tunisia |
-| :---     | :---     |
-| 📱+216 50 666 009 | 🕰️1-3 months notice period |
-| 📧 bendrissiahaythem@gmail.com | 🌍 International mobility |
-
+# Hi there, I'm Haythem!👋
 
 <!-- - 💻 Angular, ReactJS, TypeScript, JavaScript, HTML, CSS -->
 <!-- - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner -->
@@ -34,6 +26,12 @@
 
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Contact & Info
+| 🧙🏽‍♂️ [Linkedin](https://www.linkedin.com/in/haythem-ben-drissia/) | 📍 El Mourouj, Ben Arous, Tunisia |
+| :---     | :---     |
+| 📱+216 50 666 009 | 🕰️1-3 months notice period |
+| 📧 bendrissiahaythem@gmail.com | 🌍 International mobility |
     
 
 
