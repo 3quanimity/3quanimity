@@ -2,7 +2,7 @@
 
 <!-- - 💻 Angular, ReactJS, TypeScript, JavaScript, HTML, CSS -->
 <!-- - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner -->
-<!-- - 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com | 🧙🏽‍♂️ [Linkedin]([http://example.com](https://www.linkedin.com/in/haythem-ben-drissia/))
+<!-- - 📱+216 000000 | 📧 bendrissiahaythem@gmail.com | 🧙🏽‍♂️ [Linkedin]([http://example.com](https://www.linkedin.com/in/haythem-ben-drissia/))
 - 🌍 El Mourouj, Ben Arous, Tunisia | 🕰️1-3 months notice period | 🌍 International mobility -->
 <!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
@@ -44,11 +44,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Contact & Info
+<!-- ## Contact & Info
 | 🧙🏽‍♂️ [Linkedin](https://www.linkedin.com/in/haythem-ben-drissia/) | 📍 El Mourouj, Ben Arous, Tunisia |
 | :---     | :---     |
-| 📱+216 50 666 009 | 🕰️1-3 months notice period |
-| 📧 bendrissiahaythem@gmail.com | 🌍 International mobility |
+| 📱+216 000000 | 🕰️1-3 months notice period |
+| 📧 bendrissiahaythem@gmail.com | 🌍 International mobility | -->
     
 
 
