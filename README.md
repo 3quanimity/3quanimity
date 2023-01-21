@@ -11,7 +11,7 @@
   <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
 </div>
 
-<img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=3quanimity&theme=tokyonight" />
+<img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Equanimity&theme=tokyonight" />
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3quanimity&theme=tokyonight)](https://github.com/3quanimity) -->
 
 <!-- ## Languages
