@@ -12,7 +12,7 @@
 <!-- - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner -->
 <!-- - 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com | 🧙🏽‍♂️ [Linkedin]([http://example.com](https://www.linkedin.com/in/haythem-ben-drissia/))
 - 🌍 El Mourouj, Ben Arous, Tunisia | 🕰️1-3 months notice period | 🌍 International mobility -->
-- 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects.
+<!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
 <div style="display:flex;">
   <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
@@ -28,7 +28,6 @@
 ## Frameworks, Platforms and Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
