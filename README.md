@@ -9,10 +9,15 @@
 <!-- - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner -->
 - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects.
 
-<img src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" /> 
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />  -->
 
 
-
+<div style="display:flex;">
+  <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
+<!--   <img src="image1.png" width="48%" style="margin-right: 2%;"> -->
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />
+<!--   <img src="image2.png" width="48%"> -->
+</div>
 
 
 
