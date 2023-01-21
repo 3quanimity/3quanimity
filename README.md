@@ -15,15 +15,15 @@
 <!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
 <div style="display:flex;">
-  <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />
+  <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
 </div>
 
-## Languages
+<!-- ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
 
 ## Frameworks, Platforms and Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
