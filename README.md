@@ -2,24 +2,22 @@
 
 ## A Frontend Developer Engineer
 
+| 🧙🏽‍♂️ [Linkedin](https://www.linkedin.com/in/haythem-ben-drissia/) | 📍 El Mourouj, Ben Arous, Tunisia |
+| :---     | :---     |
+| 📱+216 50 666 009 | 🕰️1-3 months notice period |
+| 📧 bendrissiahaythem@gmail.com | 🌍 International mobility |
+
+
 <!-- - 💻 Angular, ReactJS, TypeScript, JavaScript, HTML, CSS -->
-- 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com
-- 🔗linkedin.com/in/haythem-ben-drissia
-- 🌍 El Mourouj, Ben Arous, Tunisia | 🕰️1-3 months notice period | 🌍 International mobility
 <!-- - 🤝 Agile, SCRUM, Autonomy, Team Spirit, Multitasking, Communication, Fast Learner -->
+<!-- - 📱+216 50 666 009 | 📧 bendrissiahaythem@gmail.com | 🧙🏽‍♂️ [Linkedin]([http://example.com](https://www.linkedin.com/in/haythem-ben-drissia/))
+- 🌍 El Mourouj, Ben Arous, Tunisia | 🕰️1-3 months notice period | 🌍 International mobility -->
 - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects.
-
-<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />  -->
-
 
 <div style="display:flex;">
   <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
-<!--   <img src="image1.png" width="48%" style="margin-right: 2%;"> -->
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact" />
-<!--   <img src="image2.png" width="48%"> -->
 </div>
-
-
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
