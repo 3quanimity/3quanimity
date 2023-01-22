@@ -7,11 +7,11 @@
 <!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
 <div style="display:flex;">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&layout=compact&theme=tokyonight" />
-  <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&show_icons=true&theme=tokyonight" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3quanimity&custom_title=Most+Used+Languages+(Personal+Repos)&layout=compact&theme=tokyonight" />
+  <img width="49%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api?username=3quanimity&custom_title=Github+Stats+(Personal+Repos)&show_icons=true&theme=tokyonight" />
 </div>
 
-[<img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Equanimity&layout=default&custom_title=Last_Week's_Stats&theme=tokyonight&v=2" />](https://wakatime.com/@Equanimity)
+[<img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Equanimity&layout=compact&custom_title=Last+Week's+Stats+(Work+Included)&theme=tokyonight&v=2" />](https://wakatime.com/@Equanimity)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3quanimity&theme=tokyonight)](https://github.com/3quanimity) -->
 
