@@ -13,7 +13,7 @@
 
 <!-- [<img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Equanimity&layout=default&custom_title=Last_Week_Stats&theme=tokyonight&v=2" />](https://wakatime.com/@Equanimity) -->
 
-<a href="https://en.wikipedia.org/wiki/Cat" target="_blank">
+<a href="https://wakatime.com/@Equanimity" target="_blank">
 <img width="91%" style="margin-right: 2%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Equanimity&layout=default&custom_title=Last_Week_Stats&theme=tokyonight&v=2" />
  </a>
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3quanimity&theme=tokyonight)](https://github.com/3quanimity) -->
