@@ -7,6 +7,9 @@
 <!-- - 🚀 I'm always looking for new opportunities to improve my skills and work on interesting projects. -->
 
 
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=3quanimity&top_languages=true&stroke=white&hide_clan=true&theme=purple_dark) -->
+
+
 
 <div style="display:flex;">
   <img width="41%" src="https://my-github-readme-stats-3quanimity.vercel.app/api/top-langs/?username=3quanimity&custom_title=Most+Used+Languages+(Personal+Repos)&layout=compact&theme=tokyonight" />
@@ -50,6 +53,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
+
+
+
 
 
 <!-- ## Contact & Info
