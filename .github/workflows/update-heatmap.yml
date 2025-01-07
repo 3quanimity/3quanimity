@@ -1,0 +1,31 @@
+name: Update WakaTime Heatmap
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          
+      - name: Create Heatmap
+        run: |
+          node .github/scripts/generate-heatmap.js
+        env:
+          WAKATIME_URL: 'https://wakatime.com/share/@Equanimity/321ccd4c-a007-4d78-aa85-3e90d629dc44.json'
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add activity-heatmap.svg
+          git commit -m "Update WakaTime heatmap" || exit 0
+          git push
