@@ -7,12 +7,12 @@
 - 📍 Based in Courbevoie (92400), Hauts-de-Seine, France
 - 📱 Contact: bendrissiahaythem@gmail.com | [LinkedIn](https://www.linkedin.com/in/haythem-ben-drissia)
 
+[<img src="activity-heatmap.svg" alt="Coding Activity Heatmap" width="91%" />](https://wakatime.com/@Equanimity)
+
 <div style="display:flex;">
   <img width="41%" src="https://my-github-readme-stats-3quanimity.vercel.app/api/top-langs/?username=3quanimity&custom_title=Most+Used+Languages+(Personal+Repos)&layout=compact&theme=tokyonight" />
   <img width="49%" style="margin-right: 2%;" src="https://my-github-readme-stats-3quanimity.vercel.app/api?username=3quanimity&custom_title=Github+Stats+(Personal+Repos)&show_icons=true&theme=tokyonight" />
 </div>
-
-[<img src="activity-heatmap.svg" alt="Coding Activity Heatmap" />](https://wakatime.com/@Equanimity)
 
 ## Technical Stack
 
