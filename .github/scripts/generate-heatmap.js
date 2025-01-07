@@ -26,12 +26,19 @@ const getColor = (hours) => {
 // Generate SVG content
 const generateSVG = (data) => {
   const days = data.days;
-  let svgContent = `<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140">
-    <rect width="800" height="140" fill="#1a1b27" rx="6"/>
-    <text x="20" y="30" fill="#70a5fd" font-family="Arial" font-size="14" font-weight="bold">Coding Activity</text>
+  const SQUARE_SIZE = 10;
+  const SQUARE_SPACING = 4;
+  const GRID_WIDTH = (SQUARE_SIZE + SQUARE_SPACING) * 25; // Enough for ~6 months
+  const GRID_HEIGHT = (SQUARE_SIZE + SQUARE_SPACING) * 7;
+  const MARGIN_LEFT = 30;
+  const MARGIN_TOP = 50;
+  
+  let svgContent = `<svg width="${GRID_WIDTH + MARGIN_LEFT + 20}" height="${GRID_HEIGHT + MARGIN_TOP + 10}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${GRID_WIDTH + MARGIN_LEFT + 20} ${GRID_HEIGHT + MARGIN_TOP + 10}">
+    <rect width="${GRID_WIDTH + MARGIN_LEFT + 20}" height="${GRID_HEIGHT + MARGIN_TOP + 10}" fill="#1a1b27" rx="6"/>
+    <text x="${MARGIN_LEFT}" y="30" fill="#70a5fd" font-family="Arial" font-size="14" font-weight="bold">Coding Activity</text>
     
     <!-- Legend -->
-    <g transform="translate(600, 15)">
+    <g transform="translate(${MARGIN_LEFT + GRID_WIDTH - 200}, 20)">
       <text x="0" y="0" fill="#70a5fd" font-family="Arial" font-size="10">Less</text>
       <rect x="30" y="-8" width="10" height="10" fill="#161b22" rx="2"/>
       <rect x="45" y="-8" width="10" height="10" fill="#0e4429" rx="2"/>
@@ -41,30 +48,42 @@ const generateSVG = (data) => {
       <text x="105" y="0" fill="#70a5fd" font-family="Arial" font-size="10">More</text>
     </g>
     
-    <g transform="translate(20, 45)">`;
+    <g transform="translate(${MARGIN_LEFT}, ${MARGIN_TOP})">`;
 
-  // Add week labels
-  svgContent += `
-    <text x="-15" y="20" fill="#70a5fd" font-family="Arial" font-size="10">Mon</text>
-    <text x="-15" y="50" fill="#70a5fd" font-family="Arial" font-size="10">Wed</text>
-    <text x="-15" y="80" fill="#70a5fd" font-family="Arial" font-size="10">Fri</text>`;
+  // Add weekday labels
+  const weekdays = ['Mon', 'Wed', 'Fri'];
+  weekdays.forEach((day, index) => {
+    const y = (index * 2 * (SQUARE_SIZE + SQUARE_SPACING)) + SQUARE_SIZE;
+    svgContent += `
+      <text x="-15" y="${y + 8}" fill="#70a5fd" font-family="Arial" font-size="10">${day}</text>`;
+  });
+
+  // Calculate the day of the week (0-6, where 0 is Sunday)
+  const getDayOfWeek = (dateStr) => {
+    const date = new Date(dateStr);
+    return (date.getDay() + 6) % 7; // Convert Sunday=0 to Sunday=6
+  };
 
   // Add activity squares
   days.forEach((day, index) => {
-    const hours = day.total / 3600; // Convert seconds to hours
-    const x = (index % 7) * 15;
-    const y = Math.floor(index / 7) * 15;
+    const date = new Date(day.date);
+    const dayOfWeek = getDayOfWeek(day.date);
+    const weeks = Math.floor(index / 7);
+    const hours = day.total / 3600;
+
+    const x = weeks * (SQUARE_SIZE + SQUARE_SPACING);
+    const y = dayOfWeek * (SQUARE_SIZE + SQUARE_SPACING);
     
     svgContent += `
       <rect 
         x="${x}" 
         y="${y}" 
-        width="10" 
-        height="10" 
+        width="${SQUARE_SIZE}" 
+        height="${SQUARE_SIZE}" 
         fill="${getColor(hours)}" 
         rx="2"
       >
-        <title>${new Date(day.date).toLocaleDateString()}: ${hours.toFixed(1)} hours</title>
+        <title>${date.toLocaleDateString()}: ${hours.toFixed(1)} hours</title>
       </rect>`;
   });
 
