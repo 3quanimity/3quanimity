@@ -26,15 +26,20 @@ const getColor = (hours) => {
 // Generate SVG content
 const generateSVG = (data) => {
   const days = data.days;
+  
+  // Constants for SVG dimensions and layout
   const SQUARE_SIZE = 10;
   const SQUARE_SPACING = 4;
-  const GRID_WIDTH = (SQUARE_SIZE + SQUARE_SPACING) * 25; // Enough for ~6 months
+  const WEEKS_TO_SHOW = 53; // Show full year (52 weeks + 1 for partial weeks)
+  const GRID_WIDTH = (SQUARE_SIZE + SQUARE_SPACING) * WEEKS_TO_SHOW;
   const GRID_HEIGHT = (SQUARE_SIZE + SQUARE_SPACING) * 7;
   const MARGIN_LEFT = 30;
   const MARGIN_TOP = 50;
-  
-  let svgContent = `<svg width="${GRID_WIDTH + MARGIN_LEFT + 20}" height="${GRID_HEIGHT + MARGIN_TOP + 10}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${GRID_WIDTH + MARGIN_LEFT + 20} ${GRID_HEIGHT + MARGIN_TOP + 10}">
-    <rect width="${GRID_WIDTH + MARGIN_LEFT + 20}" height="${GRID_HEIGHT + MARGIN_TOP + 10}" fill="#1a1b27" rx="6"/>
+  const SVG_WIDTH = GRID_WIDTH + MARGIN_LEFT + 20;
+  const SVG_HEIGHT = GRID_HEIGHT + MARGIN_TOP + 10;
+
+  let svgContent = `<svg width="${SVG_WIDTH}" height="${SVG_HEIGHT}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${SVG_WIDTH} ${SVG_HEIGHT}">
+    <rect width="${SVG_WIDTH}" height="${SVG_HEIGHT}" fill="#1a1b27" rx="6"/>
     <text x="${MARGIN_LEFT}" y="30" fill="#70a5fd" font-family="Arial" font-size="14" font-weight="bold">Coding Activity</text>
     
     <!-- Legend -->
@@ -58,20 +63,34 @@ const generateSVG = (data) => {
       <text x="-15" y="${y + 8}" fill="#70a5fd" font-family="Arial" font-size="10">${day}</text>`;
   });
 
-  // Calculate the day of the week (0-6, where 0 is Sunday)
-  const getDayOfWeek = (dateStr) => {
-    const date = new Date(dateStr);
-    return (date.getDay() + 6) % 7; // Convert Sunday=0 to Sunday=6
+  // Sort days by date to ensure proper ordering
+  const sortedDays = [...days].sort((a, b) => new Date(a.date) - new Date(b.date));
+  
+  // Find the start and end dates
+  const startDate = new Date(sortedDays[0].date);
+  const endDate = new Date(sortedDays[sortedDays.length - 1].date);
+  
+  // Create a map of date strings to hours for easy lookup
+  const dateToHours = new Map(
+    sortedDays.map(day => [day.date, day.total / 3600])
+  );
+
+  // Calculate the day of the week (0-6, where 0 is Monday)
+  const getDayOfWeek = (date) => {
+    const day = date.getDay();
+    return day === 0 ? 6 : day - 1; // Convert Sunday=0 to Sunday=6
   };
 
-  // Add activity squares
-  days.forEach((day, index) => {
-    const date = new Date(day.date);
-    const dayOfWeek = getDayOfWeek(day.date);
-    const weeks = Math.floor(index / 7);
-    const hours = day.total / 3600;
+  // Generate all dates between start and end
+  const currentDate = new Date(startDate);
+  let weekIndex = 0;
 
-    const x = weeks * (SQUARE_SIZE + SQUARE_SPACING);
+  while (currentDate <= endDate) {
+    const dateStr = currentDate.toISOString().split('T')[0];
+    const dayOfWeek = getDayOfWeek(currentDate);
+    const hours = dateToHours.get(dateStr) || 0;
+
+    const x = weekIndex * (SQUARE_SIZE + SQUARE_SPACING);
     const y = dayOfWeek * (SQUARE_SIZE + SQUARE_SPACING);
     
     svgContent += `
@@ -83,9 +102,15 @@ const generateSVG = (data) => {
         fill="${getColor(hours)}" 
         rx="2"
       >
-        <title>${date.toLocaleDateString()}: ${hours.toFixed(1)} hours</title>
+        <title>${currentDate.toLocaleDateString()}: ${hours.toFixed(1)} hours</title>
       </rect>`;
-  });
+
+    // Move to next day
+    currentDate.setDate(currentDate.getDate() + 1);
+    if (getDayOfWeek(currentDate) === 0) {
+      weekIndex++;
+    }
+  }
 
   svgContent += `
     </g>
