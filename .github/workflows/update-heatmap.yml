@@ -24,7 +24,8 @@ jobs:
         run: |
           node .github/scripts/generate-heatmap.js
         env:
-          WAKATIME_URL: 'https://wakatime.com/share/@Equanimity/321ccd4c-a007-4d78-aa85-3e90d629dc44.json'
+        #One Year Data
+          WAKATIME_URL: 'https://wakatime.com/share/@Equanimity/9b6b5828-31e8-41c1-a8ba-03ecd04fe90a.json'
           
       - name: Commit and Push
         run: |
