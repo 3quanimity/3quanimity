@@ -40,7 +40,7 @@ const generateSVG = (data) => {
 
   let svgContent = `<svg width="${SVG_WIDTH}" height="${SVG_HEIGHT}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${SVG_WIDTH} ${SVG_HEIGHT}">
     <rect width="${SVG_WIDTH}" height="${SVG_HEIGHT}" fill="#1a1b27" rx="6"/>
-    <text x="${MARGIN_LEFT}" y="30" fill="#70a5fd" font-family="Arial" font-size="14" font-weight="bold">Coding Activity</text>
+    <text x="${MARGIN_LEFT}" y="30" fill="#70a5fd" font-family="Arial" font-size="16" font-weight="bold">Coding Activity (Generated from Wakatime Tracked Data)</text>
     
     <!-- Legend -->
     <g transform="translate(${MARGIN_LEFT + GRID_WIDTH - 200}, 20)">
