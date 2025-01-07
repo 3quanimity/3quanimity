@@ -1,0 +1,7191 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140">
+    <rect width="800" height="140" fill="#1a1b27" rx="6"/>
+    <text x="20" y="30" fill="#70a5fd" font-family="Arial" font-size="14" font-weight="bold">Coding Activity</text>
+    
+    <!-- Legend -->
+    <g transform="translate(600, 15)">
+      <text x="0" y="0" fill="#70a5fd" font-family="Arial" font-size="10">Less</text>
+      <rect x="30" y="-8" width="10" height="10" fill="#161b22" rx="2"/>
+      <rect x="45" y="-8" width="10" height="10" fill="#0e4429" rx="2"/>
+      <rect x="60" y="-8" width="10" height="10" fill="#006d32" rx="2"/>
+      <rect x="75" y="-8" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="90" y="-8" width="10" height="10" fill="#39d353" rx="2"/>
+      <text x="105" y="0" fill="#70a5fd" font-family="Arial" font-size="10">More</text>
+    </g>
+    
+    <g transform="translate(20, 45)">
+    <text x="-15" y="20" fill="#70a5fd" font-family="Arial" font-size="10">Mon</text>
+    <text x="-15" y="50" fill="#70a5fd" font-family="Arial" font-size="10">Wed</text>
+    <text x="-15" y="80" fill="#70a5fd" font-family="Arial" font-size="10">Fri</text>
+      <rect 
+        x="0" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/22/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>1/23/2023: 6.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>1/24/2023: 7.6 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/25/2023: 4.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>1/26/2023: 8.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/27/2023: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="0" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/28/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/29/2023: 3.7 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/30/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/31/2023: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/1/2023: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/2/2023: 2.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/3/2023: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="15" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/4/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/5/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/6/2023: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/7/2023: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/8/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/9/2023: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/10/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="30" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/12/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/13/2023: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/14/2023: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/15/2023: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/16/2023: 0.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/17/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="45" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/19/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/20/2023: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/21/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/22/2023: 2.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/23/2023: 2.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/24/2023: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="60" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/27/2023: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/28/2023: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/1/2023: 4.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/2/2023: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/3/2023: 5.3 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="75" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/4/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/5/2023: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>3/6/2023: 6.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>3/7/2023: 6.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/8/2023: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/9/2023: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/10/2023: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="90" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/12/2023: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/13/2023: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/14/2023: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/15/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/16/2023: 2.3 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/17/2023: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="105" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/19/2023: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>3/20/2023: 6.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/21/2023: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>3/22/2023: 8.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/23/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/24/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="120" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/27/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/28/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/29/2023: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/30/2023: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/31/2023: 5.3 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="135" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/2/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/3/2023: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/4/2023: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/5/2023: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/6/2023: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/7/2023: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="150" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/9/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/10/2023: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/11/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/12/2023: 4.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/13/2023: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/14/2023: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="165" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/15/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/16/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/17/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/18/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/19/2023: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/20/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/21/2023: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="180" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/22/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/23/2023: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/24/2023: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/25/2023: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/26/2023: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/27/2023: 2.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/28/2023: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="195" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/29/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/30/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/2/2023: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/3/2023: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/4/2023: 1.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/5/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="210" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/6/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/7/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/9/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/10/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/12/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="225" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/13/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/15/2023: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/16/2023: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/17/2023: 0.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/18/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/19/2023: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="240" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/20/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/21/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/22/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/23/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/24/2023: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/25/2023: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/26/2023: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="255" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/27/2023: 2.9 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/29/2023: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/30/2023: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/31/2023: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/1/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>6/2/2023: 6.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="270" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/3/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/4/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/5/2023: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/6/2023: 0.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/7/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/8/2023: 2.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/9/2023: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="285" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/10/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/12/2023: 0.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/13/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/14/2023: 0.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/15/2023: 0.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/16/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="300" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/17/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/19/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/20/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/21/2023: 2.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/22/2023: 2.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/23/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="315" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/24/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/26/2023: 0.3 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/27/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/29/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/30/2023: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="330" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/2/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/3/2023: 0.5 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/4/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/5/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/6/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/7/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="345" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/9/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/10/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/12/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/13/2023: 0.3 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="360" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/15/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/16/2023: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/17/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>7/18/2023: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/19/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/20/2023: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/21/2023: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="375" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/22/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/23/2023: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/24/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/27/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="390" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/29/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/30/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/31/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/2/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/3/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/4/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="405" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/5/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/6/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/7/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/9/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/10/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="420" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/12/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/13/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/15/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/16/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/17/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="435" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>8/19/2023: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/20/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/21/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/22/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/23/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/24/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="450" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/27/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/29/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/30/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/31/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="465" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/2/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/3/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/4/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/5/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/6/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/7/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="480" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>9/9/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/10/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/12/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/13/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/15/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="495" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/16/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/17/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/19/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/20/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/21/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/22/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="510" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/23/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/24/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/27/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/29/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="525" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/30/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/1/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/2/2023: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/3/2023: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/4/2023: 3.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/5/2023: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/6/2023: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="540" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/7/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/8/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/9/2023: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/10/2023: 3.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/11/2023: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/12/2023: 6.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>10/13/2023: 6.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="555" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/15/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>10/16/2023: 6.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/17/2023: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/18/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/19/2023: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/20/2023: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="570" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/21/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/22/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/23/2023: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/24/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/26/2023: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/27/2023: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="585" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/28/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/29/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/30/2023: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/31/2023: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/1/2023: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/2/2023: 4.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>11/3/2023: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="600" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>11/4/2023: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/5/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>11/6/2023: 6.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/7/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>11/8/2023: 6.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/9/2023: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/10/2023: 5.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="615" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/11/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/12/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>11/13/2023: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/14/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/15/2023: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/16/2023: 5.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/17/2023: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="630" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/18/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/19/2023: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/20/2023: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/21/2023: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/22/2023: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/23/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/24/2023: 5.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="645" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/25/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/26/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/27/2023: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>11/28/2023: 2.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>11/29/2023: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/30/2023: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/1/2023: 2.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="660" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/2/2023: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/3/2023: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/4/2023: 5.5 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/5/2023: 3.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>12/6/2023: 6.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>12/7/2023: 7.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/8/2023: 4.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="675" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>12/9/2023: 7.2 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/10/2023: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/11/2023: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>12/12/2023: 8.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/13/2023: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/14/2023: 4.9 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/15/2023: 6.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="690" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/16/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/17/2023: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/18/2023: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/19/2023: 4.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>12/20/2023: 7.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/21/2023: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/22/2023: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="705" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/23/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/24/2023: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/25/2023: 5.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/26/2023: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/27/2023: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/28/2023: 4.1 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>12/29/2023: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="720" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/30/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/31/2023: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/1/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/2/2024: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/3/2024: 2.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/4/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/5/2024: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="735" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/8/2024: 6.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/9/2024: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/10/2024: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/11/2024: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/12/2024: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="750" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/13/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/15/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/16/2024: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>1/17/2024: 7.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/18/2024: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>1/19/2024: 6.6 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="765" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/20/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/22/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/23/2024: 5.5 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/24/2024: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>1/25/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/26/2024: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="780" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/27/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/28/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/29/2024: 2.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/30/2024: 0.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/31/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/1/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/2/2024: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="795" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/5/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/6/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/7/2024: 5.4 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/8/2024: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/9/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="810" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/12/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>2/13/2024: 6.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/14/2024: 4.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/15/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/16/2024: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="825" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>2/19/2024: 6.9 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/20/2024: 0.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>2/21/2024: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/22/2024: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>2/23/2024: 6.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="840" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/24/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>2/25/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>2/26/2024: 7.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/27/2024: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>2/28/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>2/29/2024: 2.3 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/1/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="855" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/2/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/4/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/5/2024: 4.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/6/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/7/2024: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/8/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="870" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/9/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/11/2024: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/12/2024: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/13/2024: 1.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/14/2024: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/15/2024: 3.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="885" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/16/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/19/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/20/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/22/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="900" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/23/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>3/24/2024: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/25/2024: 2.7 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/26/2024: 3.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/27/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>3/28/2024: 5.4 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/29/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="915" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>3/30/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>3/31/2024: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/1/2024: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/2/2024: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/3/2024: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/4/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/5/2024: 5.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="930" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/7/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>4/8/2024: 6.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/9/2024: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>4/12/2024: 6.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="945" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/13/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>4/15/2024: 7.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/16/2024: 6.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/17/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/18/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>4/19/2024: 8.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="960" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/20/2024: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>4/22/2024: 5.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/23/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/24/2024: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/25/2024: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/26/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="975" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/27/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>4/28/2024: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/29/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>4/30/2024: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/1/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/2/2024: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/3/2024: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="990" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/5/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/6/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/7/2024: 3.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/8/2024: 1.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/9/2024: 1.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/10/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1005" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/11/2024: 1.6 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/12/2024: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>5/13/2024: 8.5 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/14/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/15/2024: 0.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>5/16/2024: 2.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/17/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1020" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/19/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/20/2024: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/21/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/22/2024: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/23/2024: 5.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/24/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1035" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/25/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>5/26/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/27/2024: 3.3 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/28/2024: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/29/2024: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>5/30/2024: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>5/31/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1050" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/1/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/2/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>6/3/2024: 4.3 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/4/2024: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/5/2024: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/6/2024: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/7/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1065" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/8/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/9/2024: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>6/10/2024: 5.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/11/2024: 0.8 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/12/2024: 3.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/13/2024: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/14/2024: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1080" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/15/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/16/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/18/2024: 3.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>6/19/2024: 4.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/20/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/21/2024: 3.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1095" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/22/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/23/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/24/2024: 2.7 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/25/2024: 0.7 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>6/26/2024: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>6/27/2024: 4.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>6/28/2024: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1110" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/29/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>6/30/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/1/2024: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/2/2024: 5.3 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/3/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>7/4/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/5/2024: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1125" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/8/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/9/2024: 1.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/10/2024: 5.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/11/2024: 5.9 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/12/2024: 4.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1140" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/13/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>7/15/2024: 8.5 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/16/2024: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/17/2024: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>7/18/2024: 8.2 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>7/19/2024: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1155" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/20/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/21/2024: 1.4 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/22/2024: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>7/23/2024: 6.5 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>7/24/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/25/2024: 0.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/26/2024: 1.1 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1170" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>7/27/2024: 0.1 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>7/28/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>7/29/2024: 5.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>7/30/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>7/31/2024: 6.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/1/2024: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/2/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1185" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/5/2024: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>8/6/2024: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>8/7/2024: 0.9 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/8/2024: 4.1 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/9/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1200" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/12/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/13/2024: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/14/2024: 3.6 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/15/2024: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/16/2024: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1215" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/19/2024: 3.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/20/2024: 2.9 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/21/2024: 3.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/22/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/23/2024: 2.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1230" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/24/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>8/25/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/26/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/27/2024: 3.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>8/28/2024: 0.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>8/29/2024: 3.8 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>8/30/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1245" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>8/31/2024: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/1/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/2/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/5/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1260" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/8/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>9/9/2024: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/10/2024: 5.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/11/2024: 5.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>9/12/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>9/13/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1275" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/15/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#39d353" 
+        rx="2"
+      >
+        <title>9/16/2024: 7.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>9/17/2024: 2.1 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/19/2024: 4.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/20/2024: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1290" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>9/22/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/23/2024: 5.1 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/24/2024: 5.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>9/25/2024: 3.5 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/26/2024: 4.6 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>9/27/2024: 2.9 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1305" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>9/28/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/29/2024: 4.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>9/30/2024: 5.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/1/2024: 4.4 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#26a641" 
+        rx="2"
+      >
+        <title>10/2/2024: 4.7 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>10/3/2024: 3.1 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>10/4/2024: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1320" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/5/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/8/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/9/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1335" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/12/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/13/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/15/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/16/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1350" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/19/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/20/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/22/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/23/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/24/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/25/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1365" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/26/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/27/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/28/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/29/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/30/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>10/31/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/1/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1380" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/2/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/5/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/8/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1395" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/9/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/12/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/13/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/14/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/15/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1410" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/16/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/18/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/19/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/20/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/21/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/22/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1425" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/23/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/24/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/25/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/26/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/27/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/28/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>11/29/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1440" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>11/30/2024: 1.6 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/1/2024: 0.8 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/2/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/3/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/4/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/5/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/6/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1455" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/7/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/8/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/9/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/10/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/11/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/12/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/13/2024: 1.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1470" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/14/2024: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/15/2024: 1.2 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/16/2024: 2.4 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/17/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/18/2024: 0.2 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/19/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/20/2024: 3.4 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1485" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/21/2024: 0.8 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/22/2024: 1.6 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/23/2024: 0.6 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/24/2024: 2.2 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/25/2024: 1.3 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/26/2024: 0.9 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>12/27/2024: 3.9 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1500" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>12/28/2024: 1.8 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/29/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/30/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/31/2024: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="45" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#0e4429" 
+        rx="2"
+      >
+        <title>1/1/2025: 0.4 hours</title>
+      </rect>
+      <rect 
+        x="60" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/2/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="75" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/3/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="90" 
+        y="1515" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/4/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="0" 
+        y="1530" 
+        width="10" 
+        height="10" 
+        fill="#006d32" 
+        rx="2"
+      >
+        <title>1/5/2025: 2.9 hours</title>
+      </rect>
+      <rect 
+        x="15" 
+        y="1530" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/6/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="30" 
+        y="1530" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>1/7/2025: 0.0 hours</title>
+      </rect>
+    </g>
+  </svg>
