@@ -1,4 +1,4 @@
-# Hi there, I'm Haythem! 👋
+# Hi there, I'm Haythem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## About Me
 - 💻 Frontend Engineer specializing in Vue.js, Angular, React, TypeScript, and JavaScript
