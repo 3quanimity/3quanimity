@@ -10,9 +10,7 @@
 </div>
 
 ```js
-let haythem = {
-
-// About Me
+let aboutMe = {
   fullName: "Haythem Ben Drissia",
   role: "Frontend Engineer",
   location: "Courbevoie, Hauts-de-Seine, France",
