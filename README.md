@@ -12,9 +12,7 @@
   <img width="49%" style="margin-right: 2%;" src="https://my-github-readme-stats-3quanimity.vercel.app/api?username=3quanimity&custom_title=Github+Stats+(Personal+Repos)&show_icons=true&theme=tokyonight" />
 </div>
 
-<img src="activity-heatmap.svg" alt="Coding Activity Heatmap" />
-
-[<img width="91%" style="margin-right: 2%;" src="https://my-github-readme-stats-3quanimity.vercel.app/api/wakatime?username=Equanimity&layout=compact&custom_title=Last+Week's+Stats+(Work+Included)&theme=tokyonight&v=2" />](https://wakatime.com/@Equanimity)
+[<img src="activity-heatmap.svg" alt="Coding Activity Heatmap" />](https://wakatime.com/@Equanimity)
 
 ## Technical Stack
 
