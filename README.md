@@ -74,7 +74,7 @@ let aboutMe = {
     {
       company: "GoMyCode",
       role: "Fullstack Developer",
-      years: "2023-2023",
+      years: "2020-2020",
       stack: ["React", "JavaScript", "Redux", "MongoDB", "NodeJS", "Express"],
       focus: "Developing GoMyCode's teaching platform",
     },
