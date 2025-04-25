@@ -19,16 +19,6 @@
       <text x="-15" y="74" fill="#70a5fd" font-family="Arial" font-size="10">Fri</text>
       <rect 
         x="0" 
-        y="0" 
-        width="10" 
-        height="10" 
-        fill="#26a641" 
-        rx="2"
-      >
-        <title>4/22/2024: 5.8 hours</title>
-      </rect>
-      <rect 
-        x="0" 
         y="14" 
         width="10" 
         height="10" 
@@ -1035,7 +1025,7 @@
         fill="#26a641" 
         rx="2"
       >
-        <title>8/1/2024: 5.0 hours</title>
+        <title>8/1/2024: 5.1 hours</title>
       </rect>
       <rect 
         x="196" 
@@ -1325,7 +1315,7 @@
         fill="#26a641" 
         rx="2"
       >
-        <title>8/30/2024: 4.6 hours</title>
+        <title>8/30/2024: 4.7 hours</title>
       </rect>
       <rect 
         x="252" 
@@ -1505,7 +1495,7 @@
         fill="#006d32" 
         rx="2"
       >
-        <title>9/17/2024: 2.0 hours</title>
+        <title>9/17/2024: 2.1 hours</title>
       </rect>
       <rect 
         x="294" 
@@ -1535,7 +1525,7 @@
         fill="#26a641" 
         rx="2"
       >
-        <title>9/20/2024: 4.6 hours</title>
+        <title>9/20/2024: 4.7 hours</title>
       </rect>
       <rect 
         x="294" 
@@ -1585,7 +1575,7 @@
         fill="#006d32" 
         rx="2"
       >
-        <title>9/25/2024: 3.4 hours</title>
+        <title>9/25/2024: 3.5 hours</title>
       </rect>
       <rect 
         x="308" 
@@ -1595,7 +1585,7 @@
         fill="#26a641" 
         rx="2"
       >
-        <title>9/26/2024: 4.5 hours</title>
+        <title>9/26/2024: 4.6 hours</title>
       </rect>
       <rect 
         x="308" 
@@ -3345,7 +3335,7 @@
         fill="#0e4429" 
         rx="2"
       >
-        <title>3/20/2025: 1.0 hours</title>
+        <title>3/20/2025: 1.1 hours</title>
       </rect>
       <rect 
         x="658" 
@@ -3382,7 +3372,7 @@
         y="0" 
         width="10" 
         height="10" 
-        fill="#161b22" 
+        fill="#0e4429" 
         rx="2"
       >
         <title>3/24/2025: 0.0 hours</title>
@@ -3415,7 +3405,7 @@
         fill="#006d32" 
         rx="2"
       >
-        <title>3/27/2025: 2.9 hours</title>
+        <title>3/27/2025: 3.0 hours</title>
       </rect>
       <rect 
         x="672" 
@@ -3666,6 +3656,16 @@
         rx="2"
       >
         <title>4/21/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="728" 
+        y="14" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>4/22/2025: 0.0 hours</title>
       </rect>
     </g>
   </svg>
