@@ -19,16 +19,6 @@
       <text x="-15" y="74" fill="#70a5fd" font-family="Arial" font-size="10">Fri</text>
       <rect 
         x="0" 
-        y="70" 
-        width="10" 
-        height="10" 
-        fill="#0e4429" 
-        rx="2"
-      >
-        <title>12/14/2024: 0.4 hours</title>
-      </rect>
-      <rect 
-        x="0" 
         y="84" 
         width="10" 
         height="10" 
@@ -3666,6 +3656,16 @@
         rx="2"
       >
         <title>12/13/2025: 0.0 hours</title>
+      </rect>
+      <rect 
+        x="728" 
+        y="84" 
+        width="10" 
+        height="10" 
+        fill="#161b22" 
+        rx="2"
+      >
+        <title>12/14/2025: 0.0 hours</title>
       </rect>
     </g>
   </svg>
